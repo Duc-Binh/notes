@@ -2,7 +2,7 @@ chỉnh sửa tỉ lệ ảnh css
 aspect-ratio: 1 / 1;
 
 
-firebase
+"firebase": "^9.15.0",
 import { initializeApp } from "firebase/app";
 import { getAuth, FacebookAuthProvider, GoogleAuthProvider } from "firebase/aut
 
